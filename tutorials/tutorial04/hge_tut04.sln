@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hge_tut04", "hge_tut04.vcproj", "{4644F9C8-4F67-4440-B74E-32D84EE6A408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4644F9C8-4F67-4440-B74E-32D84EE6A408}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4644F9C8-4F67-4440-B74E-32D84EE6A408}.Debug|Win32.Build.0 = Debug|Win32
+		{4644F9C8-4F67-4440-B74E-32D84EE6A408}.Release|Win32.ActiveCfg = Release|Win32
+		{4644F9C8-4F67-4440-B74E-32D84EE6A408}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
